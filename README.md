@@ -6,7 +6,7 @@ This repo is maintained by the [BugHerd](https://bugherd.com) core team and will
 
 ## What is BugHerd MCP?
 
-[BugHerd MCP](https://bugherd.com) is an MCP server that gives AI assistants secure access to BugHerd project/task workflows.
+[BugHerd MCP](https://bugherd.com) is a remote MCP server that gives AI assistants secure access to BugHerd project/task workflows.
 
 Once connected, you can use your AI tool to help with common operations like:
 
@@ -43,9 +43,9 @@ Use the guide for your preferred client:
 - [Other AI Tools](https://support.bugherd.com/articles/14835255-bugherd-and-other-ai-tools-set-up-the-mcp-server)
 
 
-## Security
+## Security & Authentication
 
-BugHerd MCP uses OAuth-based authorization, so access is tied to your account and can be revoked at any time in BugHerd settings.
+BugHerd MCP is a remote MCP server that supports OAuth-based authorization (via DCR or CIMD authentication), so access is tied to your account and can be revoked at any time in BugHerd settings.
 
 ## Need Help?
 
