@@ -16,7 +16,7 @@ Once connected, you can use your AI tool to help with common operations like:
 - Managing assignees, tags, and attachments
 - Creatign & updating project details
 
-To find out more [read the Getting Started Guide](https://support.bugherd.com/en/articles/14835206-getting-started-with-the-bugherd-mcp-server), or checkout the **Install Guides** below.
+To find out more, read the [Getting Started Guide](https://support.bugherd.com/en/articles/14835206-getting-started-with-the-bugherd-mcp-server), or checkout the **Install Guides** below.
 
 ## Quick Start
 
