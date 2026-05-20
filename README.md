@@ -1,12 +1,13 @@
 # BugHerd MCP
 
-Connect BugHerd to your AI coding assistant via MCP (Model Context Protocol) so you can work with projects and tasks directly from your AI tool.
+Connect [BugHerd](https://bugherd.com) to your AI coding assistant via MCP (Model Context Protocol) so you can work with projects and tasks directly from your AI tool.
 
-This repo is maintained by the BugHerd core team and will updated with the most recent links & guides for using the BugHerd MCP.
+This repo is maintained by the [BugHerd](https://bugherd.com) core team and will updated with the most recent links & guides for using the BugHerd MCP.
 
 ## What is BugHerd MCP?
 
-BugHerd MCP is an MCP server that gives AI assistants secure access to BugHerd project/task workflows.  
+[BugHerd MCP](https://bugherd.com) is an MCP server that gives AI assistants secure access to BugHerd project/task workflows.
+
 Once connected, you can use your AI tool to help with common operations like:
 
 - Listing projects and tasks
@@ -14,6 +15,8 @@ Once connected, you can use your AI tool to help with common operations like:
 - Adding comments
 - Managing assignees, tags, and attachments
 - Creatign & updating project details
+
+To find out more [read the Getting Started Guide](https://support.bugherd.com/en/articles/14835206-getting-started-with-the-bugherd-mcp-server), or checkout the **Install Guides** below.
 
 ## Quick Start
 
