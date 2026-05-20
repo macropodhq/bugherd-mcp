@@ -1,4 +1,4 @@
-# BugHerd MCP
+# Official BugHerd MCP
 
 Connect [BugHerd](https://bugherd.com) to your AI coding assistant via MCP (Model Context Protocol) so you can work with projects and tasks directly from your AI tool.
 
