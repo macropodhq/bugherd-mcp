@@ -74,7 +74,7 @@ AI tools that support the [MCP skills extension](https://modelcontextprotocol.io
 
 These skills match hosted MCP server 1.3.0.
 
-When your AI tool can open the page and run JavaScript, it should pin the task and attach a screenshot. A terminal, or any client that cannot run JavaScript, can still leave page feedback with the page URL. A file attached to a task is not the pin, and it is not the screenshot shown in the sidebar. If the site needs a login, the agent's browser should be signed in. Start a new chat if the pinning tools are missing from the tool list.
+When your AI tool can open the page and run JavaScript, it should pin the task and attach a screenshot. A client that cannot run JavaScript can pin one element from the fetched page HTML, or leave page feedback with the page URL when the element is not in that document. A file attached to a task is not the pin, and it is not the screenshot shown in the sidebar. If the site needs a login, the agent's browser should be signed in. Start a new chat if the pinning tools are missing from the tool list.
 
 ## Security & Authentication
 
