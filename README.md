@@ -72,9 +72,9 @@ AI tools that support the [MCP skills extension](https://modelcontextprotocol.io
 
 ### Best results with pinned feedback
 
-These skills match hosted MCP server 1.4.0.
+These skills match hosted MCP server 1.5.0.
 
-When your AI tool can open the page and run JavaScript, it should pin the task and attach a screenshot. A client that cannot run JavaScript can pin one element from the fetched page HTML, or leave page feedback with the page URL when the element is not in that document. A file attached to a task is not the pin, and it is not the screenshot shown in the sidebar. If the site needs a login, the agent's browser should be signed in. Start a new chat if the pinning tools are missing from the tool list.
+When your AI tool can run code, it should pin every task and attach a screenshot, installing a headless browser if it needs one. `get_pin_script` links a ready-to-run Playwright capture script that measures, screenshots and uploads in two commands. Pinning from fetched page HTML is a last resort for tools that cannot run code at all, and those tasks have no screenshot. A file attached to a task is not the pin, and it is not the screenshot shown in the sidebar. If the site needs a login, the agent's browser should be signed in. Start a new chat if the pinning tools are missing from the tool list.
 
 ## Security & Authentication
 
