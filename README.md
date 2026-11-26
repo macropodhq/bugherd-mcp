@@ -29,18 +29,19 @@ To find out more, read the [Getting Started Guide](https://support.bugherd.com/e
 
 Use the guide for your preferred client:
 
-- [Claude Code](https://support.bugherd.com/articles/14835255-bugherd-and-claude-code-set-up-the-mcp-server)
-- [Claude.ai](https://support.bugherd.com/articles/14835961-bugherd-and-claude-ai-set-up-the-mcp-server)
-- [ChatGPT](https://support.bugherd.com/articles/14835258-bugherd-and-chatgpt-set-up-the-mcp-server)
-- [Codex CLI](https://support.bugherd.com/articles/14835262-bugherd-and-codex-cli-set-up-the-mcp-server)
-- [Cursor](https://support.bugherd.com/articles/14835263-bugherd-and-cursor-set-up-the-mcp-server)
-- [Gemini CLI](https://support.bugherd.com/articles/14835265-bugherd-and-gemini-cli-set-up-the-mcp-server)
-- [VS Code/GitHub Copilot](https://support.bugherd.com/articles/14835268-bugherd-and-vs-code-copilot-set-up-the-mcp-server)
-- [Windsurf](https://support.bugherd.com/articles/14835272-bugherd-and-windsurf-set-up-the-mcp-server)
-- [Zed](https://support.bugherd.com/articles/14835274-bugherd-and-zed-set-up-the-mcp-server)
-- [Antigravity](https://support.bugherd.com/articles/15092969-bugherd-and-antigravity-integration)
-- [Cline](https://support.bugherd.com/articles/14835261-bugherd-and-cline-set-up-the-mcp-server)
-- [Other AI Tools](https://support.bugherd.com/articles/14835255-bugherd-and-other-ai-tools-set-up-the-mcp-server)
+- [Claude Code](https://support.bugherd.com/en/articles/14835255-bugherd-and-claude-code-integration)
+- [Claude AI](https://support.bugherd.com/en/articles/14835961-bugherd-and-claude-ai-integration)
+- [Cursor](https://support.bugherd.com/en/articles/14835263-bugherd-and-cursor-integration)
+- [ChatGPT](https://support.bugherd.com/en/articles/14835258-bugherd-and-chatgpt-integration)
+- [VS Code with GitHub Copilot](https://support.bugherd.com/en/articles/14835268-bugherd-and-vs-code-with-github-copilot-integration)
+- [Codex CLI](https://support.bugherd.com/en/articles/14835262-bugherd-and-codex-cli-integration)
+- [Cline CLI](https://support.bugherd.com/en/articles/14835261-bugherd-and-cline-cli-integration)
+- [Gemini CLI](https://support.bugherd.com/en/articles/14835265-bugherd-and-gemini-cli-integration)
+- [Google Antigravity](https://support.bugherd.com/en/articles/15092969-bugherd-and-google-antigravity-integration)
+- [Onyx AI](https://support.bugherd.com/en/articles/15027488-bugherd-and-onyx-ai-integration)
+- [Zed](https://support.bugherd.com/en/articles/14835274-bugherd-and-zed-integration)
+- [Windsurf](https://support.bugherd.com/en/articles/14835272-bugherd-and-windsurf-integration)
+- [Other AI tools](https://support.bugherd.com/en/articles/14835958-bugherd-and-other-ai-tools)
 
 
 ## Agent Skills
